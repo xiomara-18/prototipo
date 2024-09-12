@@ -16,7 +16,8 @@
 <h3>😎Solución del problema del Usuario:</h3>
 <p>La aplicación web se creó para las personas que aman la serie llamada Rick y Morty en la cual puedan de visualizar todos los personajes que salen en la serie, mas todos los episodios y temporadas que contiene con un breve resumen en cada capítulo, otro son los lugares que sale en la serie, más unos gráficos de opinión o votación de las personas amantes de la serie o rating de los episodios más amados.</p>
 <h3>Historia del usuario en el problema:</h3>
-<p>🤙Un día unos amigos estaban buscando una aplicación web donde contenga toda la información de su serie favorita ya que la profesora les dejo como tarea✍️ exponer una serie o película en la cual les guste o amen ellos, entonces se reunieron para buscar la seria pero se enfrentaron en un problema donde no encontraron una aplicación web💻  donde contenga toda la información de la seria, es por eso que se creó esta aplicación web para que las personas amantes de la serie puedan de visualizar todo respecto a la serie🌻.</p>
+<p>Un día unos amigos estaban buscando una aplicación web donde contenga toda la información de su serie favorita ya que la profesora les dejo como tarea exponer una serie o película en la cual les guste o amen ellos, entonces se reunieron para buscar la seria pero se enfrentaron en un problema donde no encontraron una aplicación web  donde contenga toda la información de la seria, es por eso que se creó esta aplicación web para que las personas amantes de la serie puedan de visualizar todo respecto a la serie🌻.</p>
+
 <h3>Prototipo de baja fidelidad📝</h3>
 
 | Página principal | Página de selección |
@@ -44,12 +45,4 @@
 | Episodios | Estadisticas |
 | ----------- | ----------- |
 |<img src="https://i.postimg.cc/Qxsy99tr/2-33.jpg" />|<img src="https://i.postimg.cc/prM1ByJz/2-2.jpg"/>|
-
-
-
-
-
-
-
-
 
