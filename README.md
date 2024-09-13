@@ -40,7 +40,7 @@
 
 | Personajes | Lugares |
 | ----------- | ----------- |
-|<img src="https://i.postimg.cc/Qxsy99tr/2-33.jpg" />|<img src="https://i.postimg.cc/prM1ByJz/2-2.jpg"/>|
+|<img src="https://i.postimg.cc/Qxsy99tr/2-33.jpg" />|<img src="https://i.postimg.cc/CK0qgqsz/Lugares.png"/>|
 
 | Episodios | Estadisticas |
 | ----------- | ----------- |
