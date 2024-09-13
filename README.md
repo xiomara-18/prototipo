@@ -36,13 +36,13 @@
 
 | Página principal | Página de selección |
 | ----------- | ----------- |
-|<img src="https://i.postimg.cc/Qxsy99tr/2-33.jpg" />|<img src="https://i.postimg.cc/prM1ByJz/2-2.jpg"/>|
+|<img src="https://i.postimg.cc/Qxsy99tr/2-33.jpg" />|<img src="https://i.postimg.cc/66CT93TZ/Whats-App-Image-2024-09-12-at-9-37-42-PM.jpg"/>|
 
 | Personajes | Lugares |
 | ----------- | ----------- |
-|<img src="https://i.postimg.cc/Qxsy99tr/2-33.jpg" />|<img src="https://i.postimg.cc/CK0qgqsz/Lugares.png"/>|
+|<img src="https://i.postimg.cc/0ykzXskw/Whats-App-Image-2024-09-12-at-9-34-49-PM.jpg" />|<img src="https://i.postimg.cc/XJf30rx7/Whats-App-Image-2024-09-12-at-9-30-23-PM.jpg"/>|
 
 | Episodios | Estadisticas |
 | ----------- | ----------- |
-|<img src="https://i.postimg.cc/Qxsy99tr/2-33.jpg" />|<img src="https://i.postimg.cc/prM1ByJz/2-2.jpg"/>|
+|<img src="https://i.postimg.cc/8kfMLNck/Whats-App-Image-2024-09-12-at-9-32-58-PM.jpg" />|<img src="https://i.postimg.cc/prM1ByJz/2-2.jpg"/>|
 
